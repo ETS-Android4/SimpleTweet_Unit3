@@ -3,7 +3,7 @@
 **SimpleTweet_2** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **72** hours spent in total
-
+This Assignment has absolutely destroyed my sanity. I spent numerous days trying to resolve the twitter api authorization issue, and I had reached out to the slack codepath support, getting help twice to learn four days later that the issue was caused by signing in with my email instead of specifically the twitter username.  This assignment would not have been submitted late if that were so.
 ## User Stories
 
 The following **required** functionality is completed:
@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![unit3_simpleTweet_relax](https://user-images.githubusercontent.com/42590833/154614164-29129c1f-d47e-4d46-b0aa-5fea88182eeb.gif)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
