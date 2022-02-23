@@ -7,11 +7,16 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.parceler.Parcel;
+@Parcel
 public class Tweet {
     public String body;
     public String createdAt;
     public long id;
     public User user;
+
+    // parceler library
+    public Tweet(){}
 
     public static Tweet fromJson(JSONObject jsonObject) throws JSONException {
         Tweet tweet = new Tweet();
